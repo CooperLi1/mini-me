@@ -24,7 +24,7 @@ export default function MediaPage() {
 
         <div className="h-1/2 rounded-2xl overflow-hidden shadow-lg bg-white">
           <iframe
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            src="https://www.youtube.com/embed/F8KEMP-Q4tQ"
             title="YouTube video"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
